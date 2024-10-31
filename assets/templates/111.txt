@@ -1,0 +1,5 @@
+<div class="optinable-campaign op_lightbox optinable-horizontal-1 opable-optinable-init-wrapper" style="min-width:650px;" id="optinable_global_{{campaign_id}}" data-activationprops="{&quot;op_on_time_delay&quot;:&quot;0&quot;,&quot;triggers&quot;:[&quot;time&quot;],&quot;op_campaign_name&quot;:&quot;Popup&quot;,&quot;op_campaign_type&quot;:&quot;lightbox&quot;}" data-visibilityprops="{&quot;optin_global_visibility&quot;:1}">     
+
+<div class="optinable_content_holder" style="background-color: #fff;" data-propdata="{&quot;disabledProp&quot;:[],&quot;background-color&quot;:&quot;#fff&quot;}">        
+
+<button data-remodal-action="close" data-opable-ele-id="closeBtn" data-opable-ele-type="close" class="opable-close hairline" aria-label="Close" type="button">            <i class="fa-solid fa-xmark"></i>        </button>        <div class="wp-optinable-info-div" data-s-o-r-order="1" style="display:block">               <div class="optinable-column" style="min-height:400px;" id="optinable-column">                            </div>        </div>        <div class="optinable-powerby">{{powerby}}</div>    </div></div>

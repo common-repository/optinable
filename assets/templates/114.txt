@@ -1,0 +1,16 @@
+<div class="optinable-campaign op_embed optinable-horizontal-1 opable-optinable-init-wrapper" style="min-width:650px;" id="optinable_global_{{campaign_id}}" data-activationprops="{&quot;op_on_time_delay&quot;:&quot;0&quot;,&quot;triggers&quot;:[&quot;&quot;],&quot;op_campaign_name&quot;:&quot;Embed&quot;,&quot;op_campaign_type&quot;:&quot;embed&quot;}" data-visibilityprops="{&quot;optin_global_visibility&quot;:1}">     
+
+<div class="optinable_content_holder" style="background-color: rgb(255, 255, 255);padding: 20px;border: solid 1px #eeeeee;">         
+
+<div class="wp-optinable-info-div" data-s-o-r-order="1" style="display:block">               
+
+<div class="optinable-column" style="min-height: 326px;" id="optinable-column">                            
+
+
+
+</div>
+        </div>
+
+    </div>
+</div>
+

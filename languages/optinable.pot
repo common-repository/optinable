@@ -1,0 +1,1619 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: OptinAble\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-11 11:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: optinable"
+
+#: admin/partials/edit-campaign-block-prop.php:883 admin/partials/edit-campaign-block-prop.php:999 admin/partials/edit-campaign-row-prop.php:174
+msgid "Absolute"
+msgstr ""
+
+#: admin/partials/Tables/Slidein.php:49 admin/partials/Tables/Embed.php:48 admin/partials/Tables/Stickybar.php:48 admin/partials/Tables/Lightbox.php:49
+msgid "ACTION"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:223
+msgid "Action URL"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:40 admin/partials/optinable-admin-edit-campaign.php:192 admin/partials/optinable-activation.php:7
+msgid "Activation"
+msgstr ""
+
+#: admin/partials/optinable-campaign-integration.php:5
+msgid "Active Integration"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:210 admin/partials/optinable-visibility.php:250 admin/partials/optinable-visibility.php:266
+msgid "Add"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:110
+msgid "Add Blocks"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:245
+msgid "Add Icon in Button"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:45 admin/partials/edit-campaign-block-prop.php:607 admin/partials/edit-campaign-row-prop.php:37 admin/partials/edit-campaign-global-prop.php:62
+msgid "Add Image"
+msgstr ""
+
+#: admin/partials/Tables/Slidein.php:16 admin/partials/Tables/Stickybar.php:15 admin/partials/Tables/Lightbox.php:16
+msgid "Add New"
+msgstr ""
+
+#: admin/partials/Tables/Embed.php:15
+msgid "Add New "
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:159
+msgid "Advanced Settings"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:231
+msgid "After a visitor is converted to subscriber (Opted-In)"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:358
+msgid "After Form Submission"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:480 admin/partials/edit-campaign-block-prop.php:793 admin/partials/edit-campaign-row-prop.php:104
+msgid "Alignment"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:42
+msgid "Allow"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:40
+msgid "Allow usage tracking"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:263
+msgid "Animated Headlines"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:1037 admin/partials/edit-campaign-block-prop.php:1043 admin/partials/edit-campaign-global-prop.php:188
+msgid "Animation"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:641
+msgid "Apply"
+msgstr ""
+
+#: admin/partials/Tables/Actions.php:77
+msgid "Archive"
+msgstr ""
+
+#: admin/partials/Tables/Slidein.php:95 admin/partials/Tables/Embed.php:93 admin/partials/Tables/Stickybar.php:96 admin/partials/Tables/Lightbox.php:95
+msgid "Archived"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:60
+msgid "Are you sure you want to close this page?"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:62
+msgid "Are you sure you want to reset the plugin? This will delete all your campaigns and user submissions."
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:164 admin/partials/edit-campaign-block-prop.php:1014 admin/partials/edit-campaign-row-prop.php:189
+msgid "Attributes"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:94
+msgid "Auto-Close pop-up"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:96
+msgid "Automatically close campaign after x seconds."
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:14 admin/partials/edit-campaign-row-prop.php:14
+msgid "Background"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:106
+msgid "Background Blur"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:20 admin/partials/edit-campaign-block-prop.php:104 admin/partials/edit-campaign-block-prop.php:260 admin/partials/edit-campaign-block-prop.php:849
+#: admin/partials/edit-campaign-row-prop.php:20 admin/partials/edit-campaign-global-prop.php:40 admin/partials/edit-campaign-global-prop.php:312
+msgid "Background Color"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:35 admin/partials/edit-campaign-row-prop.php:30 admin/partials/edit-campaign-global-prop.php:52
+msgid "Background Image"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:115
+msgid "Background Overlay"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:63 admin/partials/edit-campaign-row-prop.php:50 admin/partials/edit-campaign-global-prop.php:78
+msgid "Background Position"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:41
+msgid "Basic Settings"
+msgstr ""
+
+#: admin/partials/placeholders/templates.php:37 admin/partials/placeholders/templates.php:121 admin/partials/placeholders/templates.php:203 admin/partials/placeholders/templates.php:267
+msgid "Blank"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:269
+msgid "Blockquote"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:19
+msgid "Blocks"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:142 admin/partials/edit-campaign-block-prop.php:118 admin/partials/edit-campaign-block-prop.php:690 admin/partials/edit-campaign-row-prop.php:141
+msgid "Border Color"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:552
+msgid "Border Radius"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:126 admin/partials/edit-campaign-block-prop.php:702 admin/partials/edit-campaign-row-prop.php:123 admin/partials/edit-campaign-global-prop.php:133
+msgid "Border Radius (px)"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:681
+msgid "Border Style"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:148 admin/partials/edit-campaign-block-prop.php:122 admin/partials/edit-campaign-block-prop.php:694 admin/partials/edit-campaign-row-prop.php:145
+msgid "Border Width (px)"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:118 admin/partials/edit-campaign-block-prop.php:134 admin/partials/edit-campaign-block-prop.php:145 admin/partials/edit-campaign-block-prop.php:307
+#: admin/partials/edit-campaign-block-prop.php:717 admin/partials/edit-campaign-block-prop.php:913 admin/partials/edit-campaign-block-prop.php:942 admin/partials/edit-campaign-row-prop.php:116
+#: admin/partials/edit-campaign-global-prop.php:152 admin/partials/edit-campaign-global-prop.php:163 admin/partials/edit-campaign-global-prop.php:212
+msgid "Bottom"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:130 admin/partials/edit-campaign-block-prop.php:556 admin/partials/edit-campaign-block-prop.php:706 admin/partials/edit-campaign-row-prop.php:127
+#: admin/partials/edit-campaign-global-prop.php:140 admin/partials/edit-campaign-global-prop.php:199
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:131 admin/partials/edit-campaign-block-prop.php:557 admin/partials/edit-campaign-block-prop.php:707 admin/partials/edit-campaign-row-prop.php:129
+#: admin/partials/edit-campaign-global-prop.php:142 admin/partials/edit-campaign-global-prop.php:196
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:103
+msgid "Bullets"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:118 admin/partials/edit-campaign-block-prop.php:165 admin/partials/placeholders/Buttons.php:5 admin/partials/placeholders/Buttons.php:9
+#: admin/partials/placeholders/Buttons.php:12 admin/partials/placeholders/Buttons.php:16 admin/partials/placeholders/Buttons.php:19 admin/partials/placeholders/Buttons.php:26
+#: admin/partials/placeholders/Buttons.php:30 admin/partials/placeholders/Buttons.php:69
+msgid "Button"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:207
+msgid "Button Action"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:296
+msgid "Button Alignment"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:193
+msgid "Button Label"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:303
+msgid "Button Padding"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:460
+msgid "Button Size"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:200
+msgid "Button Sub Heading (Optional)"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:269
+msgid "Button Text Color"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:281
+msgid "Button Width"
+msgstr ""
+
+#: admin/partials/optinable-admin-foot.php:5
+msgid "by"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:6
+msgid "Campaign"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:13
+msgid "Campaign Information"
+msgstr ""
+
+#: admin/partials/Tables/Actions.php:98
+msgid "Campaign is Live"
+msgstr ""
+
+#: admin/partials/Tables/Actions.php:102
+msgid "Campaign is UnPublished"
+msgstr ""
+
+#: admin/partials/Tables/Slidein.php:23 admin/partials/Tables/Embed.php:22 admin/partials/Tables/Stickybar.php:22 admin/partials/Tables/Lightbox.php:23
+msgid "CAMPAIGN NAME"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:19
+msgid "Campaign Name"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:33
+msgid "Campaign Style"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:268 admin/partials/optinable-visibility.php:6
+msgid "Campaign Visibility"
+msgstr ""
+
+#: admin/partials/placeholders/templates.php:13
+msgid "Cancel, Go Back"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:124
+msgid "Categories"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:872
+msgid "Change Tag Icon"
+msgstr ""
+
+#: admin/partials/optinable-admin-sidebar.php:43
+msgid "Check out Documentation"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:35
+msgid "Check this checkbox if you want OptinAble plugin to delete all of its data (campaigns, submissions, user data) when uninstall. We suggest to keep it unchecked though."
+msgstr ""
+
+#: admin/partials/placeholders/templates.php:7
+msgid "Choose a Campaign Template"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:320
+msgid "Choose your desired layout"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:69
+msgid "Click here"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:67
+msgid "Click the reset button to wipe all data and reset settings. It will clear all the submissions, user data and campaigns in case you want a fresh start."
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:34
+msgid "Click to edit this Headline"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:109 admin/partials/edit-campaign-new-blocks.php:110
+msgid "Click to edit this list item"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:292
+msgid "Close Button"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:98 admin/partials/optinable-activation.php:118
+msgid "Close campaign after"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:114
+msgid "Close pop-up after Optin conversion"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:129
+msgid "Close pop-up when visitor click outside"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:215
+msgid "Close the Popup"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:82 admin/partials/optinable-activation.php:87
+msgid "Closing Methods"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:306
+msgid "Code Highlight"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:475
+msgid "Color"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:105
+msgid "Column Width"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:88
+msgid "Configure how you want the campaign to close."
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:199
+msgid "Configure the campaign activation or trigger settings. For example, when and how you want this campaign to be triggered? "
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:204
+msgid "Configure the campaign placement. For example, where in the post this campaign should be placed or embeded via shortcode."
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:178
+msgid "Configure the campaign visibility settings. For example, on which pages you want this campaign to be appeared."
+msgstr ""
+
+#: admin/partials/optinable-activation.php:203
+msgid "Configure the post visibility behavior once a campaign is closed or converted."
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:226
+msgid "Connect the campaign with local email list or to other third party applications."
+msgstr ""
+
+#: admin/partials/optinable-admin-sidebar.php:53
+msgid "Contact Plugin Developer"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:227
+msgid "Container Height"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:219
+msgid "Container Width"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:16 admin/partials/edit-campaign-block-prop.php:73 admin/partials/edit-campaign-block-prop.php:179 admin/partials/edit-campaign-block-prop.php:585
+#: admin/partials/edit-campaign-block-prop.php:826
+msgid "Content"
+msgstr ""
+
+#: admin/partials/Tables/Slidein.php:43 admin/partials/Tables/Embed.php:42 admin/partials/Tables/Stickybar.php:42 admin/partials/Tables/Lightbox.php:43
+msgid "CONVERSIONS"
+msgstr ""
+
+#: admin/partials/Tables/Slidein.php:42 admin/partials/Tables/Embed.php:41 admin/partials/Tables/Stickybar.php:41 admin/partials/Tables/Lightbox.php:42
+msgid "Conversions: The total subscribers who are opted-in through this campaign."
+msgstr ""
+
+#: admin/partials/optinable-activation.php:55
+msgid "Copy the shortcode and paste to render a button to trigger the campaign."
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:257
+msgid "Count Down"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:275
+msgid "Counter"
+msgstr ""
+
+#: admin/partials/Tables/Lightbox.php:12
+msgid "Create and manage eye-catching popups to engage your visitors"
+msgstr ""
+
+#: admin/partials/placeholders/CampaignCreate.php:18
+msgid "Create Campaign"
+msgstr ""
+
+#: admin/partials/Tables/Slidein.php:12
+msgid "Create slide-in forms to capture attention without interrupting the user experience."
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:169 admin/partials/edit-campaign-block-prop.php:1021 admin/partials/edit-campaign-row-prop.php:194
+msgid "CSS ID"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:627
+msgid "Custom"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:171 admin/partials/edit-campaign-block-prop.php:1023 admin/partials/edit-campaign-row-prop.php:196
+msgid "Custom CSS Class"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:313
+msgid "Custom HTML"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:647
+msgid "Custom Link (Optional)"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:263
+msgid "Custom Value"
+msgstr ""
+
+#: admin/class-optinable-admin.php:94 admin/class-optinable-admin.php:95
+msgid "Dashboard"
+msgstr ""
+
+#: admin/partials/optinable-admin-head.php:15
+msgid "Dashboards"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:685
+msgid "Dashed"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:224 admin/partials/optinable-activation.php:248
+msgid "days"
+msgstr ""
+
+#: admin/partials/Tables/Actions.php:83
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:32
+msgid "Design"
+msgstr ""
+
+#: admin/partials/placeholders/templates.php:17
+msgid "Design Your Campaign"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:52
+msgid "Disable"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:50
+msgid "Disable Tracking"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:488
+msgid "Display"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:288
+msgid "Display Inline"
+msgstr ""
+
+#: admin/partials/optinable-admin-sidebar.php:39
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:215 admin/partials/optinable-activation.php:239
+msgid "Don't show this campaign again"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:686
+msgid "Dotted"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:124
+msgid "Edit Block"
+msgstr ""
+
+#: admin/partials/Tables/Actions.php:6
+msgid "Edit Campaign"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:128
+msgid "Edit Column"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:132
+msgid "Edit Row"
+msgstr ""
+
+#: admin/partials/Tables/Embed.php:12
+msgid "Effortlessly embed forms and opt-ins into your website for seamless integration."
+msgstr ""
+
+#: admin/partials/Tables/Subscribers.php:49
+msgid "EMAIL"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:81
+msgid "Email Field Placeholder"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:84
+msgid "Email Field Width"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:173 admin/partials/Tables/Embed.php:6
+msgid "Embed"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:141
+msgid "Embed Campaign"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:163
+msgid "Embed on bottom of the post"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:160
+msgid "Embed on middle of the post"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:166
+msgid "Embed on top and bottom of the post"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:157
+msgid "Embed on top of the post"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:174
+msgid "Embed the campaign anywhere through shortcode."
+msgstr ""
+
+#: admin/partials/optinable-activation.php:145
+msgid "Embed the campaign inside post or pages on different positions."
+msgstr ""
+
+#: admin/class-optinable-admin.php:130 admin/class-optinable-admin.php:131 admin/partials/optinable-admin-head.php:35 admin/partials/placeholders/templates.php:27
+msgid "Embeds"
+msgstr ""
+
+#: admin/partials/Tables/Embed.php:9
+msgid "Embeds, Inline Posts"
+msgstr ""
+
+#: admin/partials/Tables/Slidein.php:36 admin/partials/Tables/Embed.php:35 admin/partials/Tables/Stickybar.php:35 admin/partials/Tables/Lightbox.php:36
+msgid "ENGAGEMENTS"
+msgstr ""
+
+#: admin/partials/Tables/Slidein.php:35 admin/partials/Tables/Embed.php:34 admin/partials/Tables/Stickybar.php:34 admin/partials/Tables/Lightbox.php:35
+msgid "Engagements: The number of interactions by visitors on this campaign. e.g (CTA clicks, conversion) ."
+msgstr ""
+
+#: admin/partials/placeholders/CampaignCreate.php:21
+msgid "Enter a short & specific campaign name. The name will be only used in admin side for you to manage them later."
+msgstr ""
+
+#: admin/partials/placeholders/CampaignCreate.php:27
+msgid "Enter the Campaign Name:"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:20
+msgid "Error"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:44
+msgid "Exit Intent"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:60
+msgid "Exit without Saving"
+msgstr ""
+
+#: admin/partials/optinable-admin-sidebar.php:51
+msgid "Explore Plugin Support"
+msgstr ""
+
+#: admin/partials/Tables/Subscribers.php:26
+msgid "Export Email List"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:255
+msgid "Facebook"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:319
+msgid "Fancy Buttons"
+msgstr ""
+
+#: admin/partials/optinable-admin-sidebar.php:59
+msgid "Features"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:141
+msgid "Fields Margin"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:130
+msgid "Fields Padding"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:524 admin/partials/edit-campaign-block-prop.php:839
+msgid "Font Family"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:275 admin/partials/edit-campaign-block-prop.php:529 admin/partials/edit-campaign-block-prop.php:844
+msgid "Font Size"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:300
+msgid "ForeColor"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:80 admin/partials/edit-campaign-row-prop.php:67 admin/partials/edit-campaign-global-prop.php:90
+msgid "Full Screen Contain"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:72 admin/partials/edit-campaign-row-prop.php:59 admin/partials/edit-campaign-global-prop.php:84
+msgid "Full Screen Cover"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:75 admin/partials/edit-campaign-row-prop.php:62 admin/partials/edit-campaign-global-prop.php:87
+msgid "Full Screen Cover Bottom"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:626
+msgid "Full/Original"
+msgstr ""
+
+#: admin/class-optinable-admin.php:1626
+msgid "Give us a 5-star rating!"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:115
+msgid "Global Settings"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:18 admin/partials/optinable-visibility.php:31
+msgid "Global Visibility"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:29
+msgid "Global Visibility: The campaign will be displayed on the entire website and the visibility settings below will also be applied."
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:258
+msgid "Google"
+msgstr ""
+
+#: admin/partials/optinable-admin-sidebar.php:48
+msgid "Have some questions? Contact us today and let us help you get the most out of OptinAble."
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:27 admin/partials/edit-campaign-block-prop.php:449
+msgid "Heading"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:639
+msgid "Height"
+msgstr ""
+
+#: admin/partials/optinable-admin-dashboard.php:11
+msgid "Hello Admin"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:45
+msgid ""
+"Help us make OptinAble even better by allowing us to collect anonymous usage statistics (PHP version, active plugin's names) from your site. It's completely optional and non-personal data, but it "
+"would help us better understand how our plugin is being used in the real world."
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:197 admin/partials/optinable-visibility.php:247
+msgid "Hide"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:274
+msgid "Hide on Desktop"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:277
+msgid "Hide on Mobile"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://optinable.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://optinable.com/?utm_campaign=plugin-info&utm_source=plugin-header&utm_medium=plugin-uri"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:403 admin/partials/edit-campaign-block-prop.php:443
+msgid "Icon"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:250
+msgid "Icon Alignment"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:250
+msgid "Icon Box"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:172
+msgid "Icons"
+msgstr ""
+
+#: admin/partials/Tables/Subscribers.php:40
+msgid "ID"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:200
+msgid "if URL has following query"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:116
+msgid "If user has submitted email then automatically close campaign after x seconds."
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:186 admin/partials/edit-campaign-block-prop.php:576
+msgid "Image"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:668
+msgid "Image Alignment"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:244
+msgid "Image Box"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:621
+msgid "Image Size"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:57 admin/partials/edit-campaign-block-prop.php:616 admin/partials/edit-campaign-row-prop.php:46 admin/partials/edit-campaign-global-prop.php:72
+msgid "Image URL"
+msgstr ""
+
+#: admin/partials/Tables/Slidein.php:29 admin/partials/Tables/Embed.php:28 admin/partials/Tables/Stickybar.php:28 admin/partials/Tables/Lightbox.php:29
+msgid "IMPRESSIONS"
+msgstr ""
+
+#: admin/partials/Tables/Slidein.php:28 admin/partials/Tables/Embed.php:27 admin/partials/Tables/Stickybar.php:27 admin/partials/Tables/Lightbox.php:28
+msgid "Impressions: The number of times your campaign has been displayed to a visitor."
+msgstr ""
+
+#: admin/partials/Tables/Stickybar.php:12
+msgid "Increase conversions with attention-grabbing sticky bars that remain visible as visitors scroll."
+msgstr ""
+
+#: admin/partials/optinable-activation.php:144
+msgid "Inline/After Post"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:109
+msgid "Input Text Color"
+msgstr ""
+
+#: admin/partials/edit-campaign-menu-bottom.php:20
+msgid "Insert a layout"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:240
+msgid "Inside the Container"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:259
+msgid "Instagram"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:56 admin/partials/optinable-admin-edit-campaign.php:221
+msgid "Integration"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:772
+msgid "Invalid video URL"
+msgstr ""
+
+#: admin/partials/Tables/Subscribers.php:43
+msgid "IP"
+msgstr ""
+
+#: admin/partials/optinable-admin-sidebar.php:18
+msgid "Join our exclusive email list to be the first to know about our upcoming features, ad-ons and much more."
+msgstr ""
+
+#: admin/partials/optinable-admin-sidebar.php:17
+msgid "Join the Club"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:212 admin/partials/optinable-activation.php:236
+msgid "Keep showing this campaign"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:469
+msgid "Large"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:180 admin/partials/optinable-admin-edit-campaign.php:201 admin/partials/optinable-admin-edit-campaign.php:207
+#: admin/partials/optinable-admin-edit-campaign.php:228
+msgid "Learn more"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:120 admin/partials/edit-campaign-block-prop.php:135 admin/partials/edit-campaign-block-prop.php:146 admin/partials/edit-campaign-block-prop.php:308
+#: admin/partials/edit-campaign-block-prop.php:718 admin/partials/edit-campaign-block-prop.php:915 admin/partials/edit-campaign-block-prop.php:944 admin/partials/edit-campaign-row-prop.php:117
+#: admin/partials/edit-campaign-global-prop.php:153 admin/partials/edit-campaign-global-prop.php:164
+msgid "Left"
+msgstr ""
+
+#: admin/partials/placeholders/CampaignCreate.php:43
+msgid "LIGHTBOX POPUP"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:163
+msgid "Lightning Tip"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:535
+msgid "Line Height"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:227
+msgid "Link to campaign"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:257
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:413
+msgid "List Icon Style"
+msgstr ""
+
+#: admin/partials/Tables/Actions.php:90 admin/partials/Tables/Slidein.php:93 admin/partials/Tables/Embed.php:91 admin/partials/Tables/Stickybar.php:94 admin/partials/Tables/Lightbox.php:93
+msgid "Live"
+msgstr ""
+
+#: admin/partials/optinable-campaign-integration.php:19
+msgid "Local List"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:50
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of "
+"type and scrambled it to make a type specimen book"
+msgstr ""
+
+#: admin/partials/optinable-admin-foot.php:4
+msgid "Made with"
+msgstr ""
+
+#: admin/partials/Tables/Subscribers.php:8
+msgid "Manage your subscribers and user submitted data."
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:930 admin/partials/edit-campaign-global-prop.php:159
+msgid "Margin"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:206
+msgid "matches"
+msgstr ""
+
+#: admin/partials/edit-campaign-row-prop.php:96
+msgid "Max Width (Row)"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:466
+msgid "Medium"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:624
+msgid "Medium - 300 x Height"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:294
+msgid "Menus"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:90
+msgid "Name Field Placeholder"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:97
+msgid "Name Field Width"
+msgstr ""
+
+#: admin/partials/edit-campaign-menu-bottom.php:13
+msgid "Next Step"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:660
+msgid "No Follow"
+msgstr ""
+
+#: admin/partials/Tables/Subscribers.php:69
+msgid "No record(s) found."
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:96
+msgid "No Repeat"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:62 admin/partials/Tables/Actions.php:81
+msgid "No, Cancel"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:683
+msgid "None"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:726
+msgid "Note: Only shadow will be applied to the image, if the border and padding are removed from"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:54
+msgid "On-Click"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:218
+msgid "Open another Campaign"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:656
+msgid "Open in New Window"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:60
+msgid "Optin Fields"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:60 admin/partials/edit-campaign-block-prop.php:336
+msgid "Optin Form"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-optinable-admin.php:85
+msgid "OptinAble"
+msgstr ""
+
+#: admin/partials/optinable-admin-dashboard.php:13
+msgid ""
+"OptinAble is the ultimate WordPress plugin for collecting email subscribers. With our easy-to-use interface, you can create beautiful popups, forms, and slide-ins to grow your email list in no time."
+" Get started today and see the results for yourself!"
+msgstr ""
+
+#. Author of the plugin
+msgid "OptinAble Popup Builder Team"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:243
+msgid "Outside the Container"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:154
+msgid "Override Basic Settings"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:111 admin/partials/edit-campaign-block-prop.php:713 admin/partials/edit-campaign-block-prop.php:903 admin/partials/edit-campaign-row-prop.php:112
+#: admin/partials/edit-campaign-global-prop.php:148
+msgid "Padding"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:73
+msgid "Pages"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:260
+msgid "Pinterest"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:41 admin/partials/optinable-admin-edit-campaign.php:193 admin/partials/optinable-activation.php:8 admin/partials/optinable-activation.php:137
+msgid "Placement"
+msgstr ""
+
+#: admin/partials/placeholders/CampaignCreate.php:30
+msgid "Please enter your campaign name"
+msgstr ""
+
+#: admin/class-optinable-admin.php:1640
+#, php-format
+msgid "Please rate %1$s %2$s on %3$s to help us spread the word."
+msgstr ""
+
+#: admin/class-optinable-admin.php:103 admin/class-optinable-admin.php:104 admin/partials/optinable-admin-head.php:20 admin/partials/Tables/Lightbox.php:6 admin/partials/Tables/Lightbox.php:9
+#: admin/partials/placeholders/templates.php:24
+msgid "Popups"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:877 admin/partials/edit-campaign-block-prop.php:987 admin/partials/edit-campaign-block-prop.php:993 admin/partials/edit-campaign-row-prop.php:162
+#: admin/partials/edit-campaign-row-prop.php:168 admin/partials/edit-campaign-global-prop.php:193 admin/partials/edit-campaign-global-prop.php:206
+msgid "Position"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:230
+msgid "Post Grid"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:45
+msgid "Posts"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:237
+msgid "Power By Logo"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:137
+msgid "Pretty Button"
+msgstr ""
+
+#: admin/partials/edit-campaign-menu-bottom.php:7
+msgid "Previous Step"
+msgstr ""
+
+#: admin/partials/Tables/Actions.php:46
+msgid "Publish"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:82
+msgid "Publish. "
+msgstr ""
+
+#: admin/partials/optinable-admin-sidebar.php:7
+msgid "Rate Us"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:281
+msgid "Rating"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:44
+msgid "Recommended"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:262
+msgid "Reddit"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:212 admin/partials/edit-campaign-block-prop.php:364
+msgid "Redirect to URL"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:217
+msgid "Referral / Source"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:880 admin/partials/edit-campaign-block-prop.php:996 admin/partials/edit-campaign-row-prop.php:171
+msgid "Relative"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:31
+msgid "Remove data upon Uninstall?"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:246
+msgid "Remove the Logo"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:83 admin/partials/edit-campaign-row-prop.php:70 admin/partials/edit-campaign-global-prop.php:93
+msgid "Repeat"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:63
+msgid "Reset"
+msgstr ""
+
+#: admin/partials/Tables/Actions.php:56
+msgid "Reset Analytics"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:60
+msgid "Reset Plugin"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:222 admin/partials/optinable-activation.php:246
+msgid "Reset this after"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:261
+msgid "Responsive"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:116 admin/partials/edit-campaign-block-prop.php:133 admin/partials/edit-campaign-block-prop.php:144 admin/partials/edit-campaign-block-prop.php:306
+#: admin/partials/edit-campaign-block-prop.php:716 admin/partials/edit-campaign-block-prop.php:911 admin/partials/edit-campaign-block-prop.php:940 admin/partials/edit-campaign-row-prop.php:115
+#: admin/partials/edit-campaign-global-prop.php:151 admin/partials/edit-campaign-global-prop.php:162
+msgid "Right"
+msgstr ""
+
+#: admin/partials/edit-campaign-row-prop.php:91
+msgid "Row Width"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:73
+msgid "Save"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:80
+msgid "Save  Settings"
+msgstr ""
+
+#: admin/partials/placeholders/CampaignCreate.php:57
+msgid "Save & Design Your Campaign"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:60
+msgid "Save & Exit"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:287
+msgid "Search"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:117
+msgid "Search page here"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:39 admin/partials/optinable-activation.php:100 admin/partials/optinable-activation.php:120
+msgid "seconds"
+msgstr ""
+
+#: admin/partials/placeholders/templates.php:8
+msgid "Select a design to enhance your opt-in performance"
+msgstr ""
+
+#: admin/partials/placeholders/animation.php:5
+msgid "Select Animation"
+msgstr ""
+
+#: admin/partials/placeholders/CampaignCreate.php:38
+msgid "Select the Campaign Type:"
+msgstr ""
+
+#: admin/partials/optinable-campaign-integration.php:11
+msgid "Selected"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:205
+msgid "Set query key"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:208
+msgid "Set query value"
+msgstr ""
+
+#: admin/class-optinable-admin.php:148 admin/class-optinable-admin.php:149 admin/partials/optinable_settings.php:29
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:319 admin/partials/optinable-activation.php:65 admin/partials/optinable-activation.php:183
+msgid "Shortcode"
+msgstr ""
+
+#: admin/partials/placeholders/CampaignCreate.php:50
+msgid "SHORTCODE / EMBEDS"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:194 admin/partials/optinable-visibility.php:244
+msgid "Show"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:37
+msgid "Show campaign after"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:271
+msgid "Show on All"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:125
+msgid "Show on all or specific categories."
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:74
+msgid "Show on all or specific pages."
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:46
+msgid "Show on all or specific posts."
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:101
+msgid "Show on all or specific static pages."
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:218
+msgid "Show or hide this campaign from visitors coming from any of the specific source."
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:165
+msgid "Show or hide this campaign on URLs with specific queries."
+msgstr ""
+
+#: admin/partials/Tables/Subscribers.php:15
+msgid "Show Subscribers"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:361
+msgid "Show success in same window"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:26
+msgid "Show when the visitor has been on the page for more than X seconds."
+msgstr ""
+
+#: admin/partials/placeholders/Buttons.php:35
+msgid "Sign Up"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:316
+msgid "Simple Buttons"
+msgstr ""
+
+#: admin/partials/edit-campaign-global-prop.php:180
+msgid "Size & Animation"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:98 admin/partials/edit-campaign-row-prop.php:85
+msgid "Size & Spacing"
+msgstr ""
+
+#: admin/partials/Tables/Slidein.php:6 admin/partials/Tables/Slidein.php:9
+msgid "Slide In"
+msgstr ""
+
+#: admin/partials/placeholders/CampaignCreate.php:48
+msgid "SLIDE-IN"
+msgstr ""
+
+#: admin/partials/placeholders/templates.php:25
+msgid "Slide-In"
+msgstr ""
+
+#: admin/class-optinable-admin.php:121 admin/class-optinable-admin.php:122 admin/partials/optinable-admin-head.php:30
+msgid "Slide-ins"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:463
+msgid "Small"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:325
+msgid "Social Profiles"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:332
+msgid "Social Share"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:684
+msgid "Solid"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:214 admin/partials/edit-campaign-block-prop.php:961
+msgid "Spacer"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:164
+msgid "Specific Query"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:100
+msgid "Static Pages"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:30
+msgid "STEP 1"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:38
+msgid "STEP 2"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:47
+msgid "STEP 3"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:54
+msgid "STEP 4"
+msgstr ""
+
+#: admin/partials/placeholders/CampaignCreate.php:46
+msgid "STICKY BAR"
+msgstr ""
+
+#: admin/partials/placeholders/templates.php:26
+msgid "Sticky-Bar"
+msgstr ""
+
+#: admin/class-optinable-admin.php:112 admin/class-optinable-admin.php:113 admin/partials/optinable-admin-head.php:25
+msgid "Sticky-bars"
+msgstr ""
+
+#: admin/partials/Tables/Stickybar.php:6 admin/partials/Tables/Stickybar.php:9
+msgid "Stickybar"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:68 admin/partials/edit-campaign-block-prop.php:174 admin/partials/edit-campaign-block-prop.php:396 admin/partials/edit-campaign-block-prop.php:590
+#: admin/partials/edit-campaign-block-prop.php:821
+msgid "Style"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:727
+msgid "Style section."
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:345
+msgid "Submission"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:92 admin/partials/optinable-admin-sidebar.php:31 admin/partials/placeholders/Buttons.php:41 admin/partials/placeholders/Buttons.php:49
+#: admin/partials/placeholders/Buttons.php:56 admin/partials/placeholders/Buttons.php:63 admin/partials/placeholders/Buttons.php:73
+msgid "Submit"
+msgstr ""
+
+#: admin/partials/optinable-admin-sidebar.php:11
+msgid "Submit a Review"
+msgstr ""
+
+#: admin/partials/Tables/Subscribers.php:56
+msgid "SUBMITTED DATE"
+msgstr ""
+
+#: admin/class-optinable-admin.php:139 admin/class-optinable-admin.php:140 admin/partials/Tables/Subscribers.php:6
+msgid "Subscribers"
+msgstr ""
+
+#: admin/partials/optinable-admin-campaign-subscribers.php:12 admin/partials/optinable-admin-campaign-list.php:12 admin/partials/optinable-admin-dashboard.php:18
+#: admin/partials/edit-campaign-block-prop.php:350 admin/partials/optinable_settings.php:12
+msgid "Success"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:378
+msgid "Success message here.."
+msgstr ""
+
+#: admin/partials/optinable-admin-sidebar.php:47
+msgid "Support"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:148 admin/partials/edit-campaign-block-prop.php:812
+msgid "Tag"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:857
+msgid "Tag Label"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:864
+msgid "Tag URL (Optional)"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:138
+msgid "Target all categories except"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:86
+msgid "Target all pages except"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:59
+msgid "Target all posts except"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:112
+msgid "Target all static pages except"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:140
+msgid "Target only these categories"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:89
+msgid "Target only these pages"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:62
+msgid "Target only these posts"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:114
+msgid "Target only these static pages"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:12 admin/partials/optinable-visibility.php:27
+msgid "Targeted Visibility"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:25
+msgid "Targeted Visibility: The campaign will only be visible in certain areas of the website based on the visibility settings chosen below."
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:184 admin/partials/edit-campaign-block-prop.php:595 admin/partials/edit-campaign-block-prop.php:831
+msgid "Templates"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:237
+msgid "Testimonials"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:42
+msgid "Text"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:379
+msgid "Thank you for joining our email list."
+msgstr ""
+
+#: admin/partials/optinable-admin-sidebar.php:26
+msgid "Thank you for joining the list."
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:191 admin/partials/optinable-visibility.php:241
+msgid "The campaign should"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:19
+msgid "The campaign will be displayed on the entire website and the visibility settings below will also be applied if enabled."
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:13
+msgid "The campaign will only be visible in certain areas of the website based on the visibility settings chosen/enabled below."
+msgstr ""
+
+#: admin/partials/optinable-campaign-integration.php:6
+msgid "The local list and active third party apps will be receiving optinable's form data such as email address and name of the subscribers."
+msgstr ""
+
+#: admin/partials/optinable-campaign-integration.php:15
+msgid "The name of the list will be visible to the subscribers while unsubscribing."
+msgstr ""
+
+#: admin/partials/optinable-activation.php:142
+msgid "The placement of Embed campaign type is possible in two ways given below."
+msgstr ""
+
+#: admin/partials/optinable_settings.php:55
+msgid "The plugin tracks popup impressions and clicks to provide insights about visitors and how well your campaign is performaing. Disabling the tracking will stop analytics."
+msgstr ""
+
+#: admin/partials/optinable-campaign-integration.php:21
+msgid "The subscribers data will be saved to local DB."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The ultimate Free WP plugin for collecting email subscribers. With our easy-to-use interface, and built in templates, you can create beautiful popups, stickybars, slide-ins, and embed forms to grow "
+"your email list in no time."
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:178 admin/partials/optinable-visibility.php:184 admin/partials/optinable-visibility.php:231 admin/partials/optinable-visibility.php:236
+msgid "the URL contains following queries"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:623
+msgid "Thumbnail - 150 x 150"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:25
+msgid "Time"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:114 admin/partials/edit-campaign-block-prop.php:132 admin/partials/edit-campaign-block-prop.php:143 admin/partials/edit-campaign-block-prop.php:305
+#: admin/partials/edit-campaign-block-prop.php:715 admin/partials/edit-campaign-block-prop.php:909 admin/partials/edit-campaign-block-prop.php:938 admin/partials/edit-campaign-row-prop.php:114
+#: admin/partials/edit-campaign-global-prop.php:150 admin/partials/edit-campaign-global-prop.php:161 admin/partials/edit-campaign-global-prop.php:209
+msgid "Top"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:128 admin/partials/edit-campaign-block-prop.php:554 admin/partials/edit-campaign-block-prop.php:704 admin/partials/edit-campaign-row-prop.php:125
+#: admin/partials/edit-campaign-global-prop.php:137
+msgid "Top Left"
+msgstr ""
+
+#: admin/partials/edit-campaign-col-prop.php:129 admin/partials/edit-campaign-block-prop.php:555 admin/partials/edit-campaign-block-prop.php:705 admin/partials/edit-campaign-row-prop.php:126
+#: admin/partials/edit-campaign-global-prop.php:138
+msgid "Top Right"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:17 admin/partials/optinable-activation.php:21
+msgid "Trigger Settings"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:256
+msgid "Twitter"
+msgstr ""
+
+#: admin/partials/Tables/Actions.php:74
+msgid "UnArchive"
+msgstr ""
+
+#: admin/partials/Tables/Actions.php:43
+msgid "UnPublish"
+msgstr ""
+
+#: admin/partials/Tables/Actions.php:93 admin/partials/Tables/Slidein.php:94 admin/partials/Tables/Embed.php:92 admin/partials/Tables/Stickybar.php:95 admin/partials/Tables/Lightbox.php:94
+msgid "UnPublished"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:604
+msgid "Upload your Image"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:368
+msgid "URL"
+msgstr ""
+
+#: admin/partials/edit-campaign-new-blocks.php:201 admin/partials/edit-campaign-block-prop.php:764
+msgid "Video"
+msgstr ""
+
+#: admin/partials/Tables/Actions.php:51
+msgid "View Subscribers"
+msgstr ""
+
+#: admin/partials/optinable-admin-edit-campaign.php:49 admin/partials/optinable-admin-edit-campaign.php:173
+msgid "Visibility"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:196 admin/partials/optinable-activation.php:201
+msgid "Visibility Behavior"
+msgstr ""
+
+#: admin/partials/optinable-admin-sidebar.php:40
+msgid "We offer an extensive documentation that covers everything about OptinAble."
+msgstr ""
+
+#: admin/partials/optinable-admin-sidebar.php:9
+msgid "We value your opinion and really appreciate every single review. Thank you for your support!"
+msgstr ""
+
+#: admin/partials/optinable-admin-dashboard.php:12
+msgid "Welcome to OptinAble"
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:152
+msgid "When 'Override Basic Settings' is enabled, then advanced settings will override the basic settings. "
+msgstr ""
+
+#: admin/partials/optinable-activation.php:207
+msgid "When closed by visitors or auto closed"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:541 admin/partials/edit-campaign-block-prop.php:634 admin/partials/edit-campaign-block-prop.php:781
+msgid "Width"
+msgstr ""
+
+#: admin/class-optinable-admin.php:1653
+#, php-format
+msgid "WordPress %1$s | OptinAble %2$s"
+msgstr ""
+
+#: admin/partials/Tables/Actions.php:81
+msgid "Yes, Clear"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:33
+msgid "Yes, Remove"
+msgstr ""
+
+#: admin/partials/optinable_settings.php:62
+msgid "Yes, Reset"
+msgstr ""
+
+#: admin/partials/Tables/Actions.php:81
+msgid "You are going to delete this campaign?"
+msgstr ""
+
+#: admin/partials/optinable-activation.php:22
+msgid "You must enable at least one trigger for your campaign to appear."
+msgstr ""
+
+#: admin/partials/optinable-visibility.php:261
+msgid "Youtube"
+msgstr ""
+
+#: admin/partials/edit-campaign-block-prop.php:770
+msgid "Youtube URL"
+msgstr ""

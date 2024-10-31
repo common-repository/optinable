@@ -1,0 +1,37 @@
+/**
+  * All of the CSS for your public-facing functionality should be
+  * included in this file.
+*/
+
+.optinable-powerby{
+}
+
+.optinable-campaign{ display:none }
+
+.op_position_bottom_right{ inset: auto 5px 0px auto !important;}
+.op_position_bottom_left{    inset: auto auto 0px 0px!important;}
+.op_position_top_right{    inset: 0px 0px auto auto!important;}
+.op_position_top_left{    inset: 0px auto auto 0px!important;}
+.optinable-campaign.op_embed{ display:block; z-index:auto;}
+
+.remodal-wrapper{
+   background-color: rgba(0,0,0,.7);
+   transition: opacity .3s ease;
+}
+
+@media (min-width: 769px) {
+
+  .optinable_desktop_hide {
+      display: none !important;
+      visibility: hidden;
+  }
+}
+
+@media (max-width: 768px) {
+
+  .optinable_mobile_hide {
+    display: none !important;
+    visibility: hidden;
+  }
+
+}

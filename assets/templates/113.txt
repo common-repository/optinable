@@ -1,0 +1,18 @@
+<div class="optinable-campaign op_stickybar optinable-horizontal-2 opable-optinable-init-wrapper op_sticky_top" style="width: 100px;right: 0px;z-index: 99999;min-width: 100%;" id="optinable_global_{{campaign_id}}" data-activationprops="{&quot;op_on_time_delay&quot;:&quot;0&quot;,&quot;triggers&quot;:[&quot;time&quot;],&quot;op_campaign_name&quot;:&quot;Stickybar&quot;,&quot;op_campaign_type&quot;:&quot;stickybar&quot;}" data-visibilityprops="{&quot;optin_global_visibility&quot;:1}">    
+
+<div class="optinable_content_holder" style="background-color: #fff; box-shadow: 0 16px 24px 2px rgba(29,17,51,.04), 0 6px 32px 4px rgba(9,32,77,.12), 0 8px 12px -5px rgba(29,17,51,.12);" data-propData='{"disabledProp":[],"background-color":"#fff"}'>        
+
+<button data-optin_close_action="optin" data-opable-ele-id="closeBtn" data-opable-ele-type="close" class="opable-close hairline" aria-label="Close" type="button" >            
+<i class="fa-solid fa-xmark"></i>        
+</button>        
+
+
+<div class="wp-optinable-info-div" data-s-o-r-order="1" style="display:block">               
+
+<div class="optinable-column" style="min-height: 50px;" id="optinable-column">   
+
+                         </div>
+        </div>
+
+    </div>
+</div>
